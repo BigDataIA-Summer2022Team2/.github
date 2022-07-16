@@ -20,8 +20,10 @@
 - Streamlit
 - Logging Analysis
 - Pytest
+- JWT
 
 ## Assignment 3
 - Transfer Learning
 - FastAPI
 - Streamlit
+- JWT
